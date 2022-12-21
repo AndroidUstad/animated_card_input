@@ -13,7 +13,7 @@ This is a simple credit card input form using flutter. You can use this form in 
 ## Demo
 
 
-![Animated Card Input Using Flutter](https://user-images.githubusercontent.com/117299633/208983081-040c8317-faf1-4bd6-a43c-e9dd927349f6.mp4)
+https://user-images.githubusercontent.com/117299633/208983081-040c8317-faf1-4bd6-a43c-e9dd927349f6.mp4
 
 
 ### Source Code credit <a href="https://github.com/AndroidUstad/animated_card_input">Umair Ali Madni (Android Ustad)</a>
